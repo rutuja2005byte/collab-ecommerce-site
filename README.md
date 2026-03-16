@@ -15,5 +15,14 @@ It includes a clean UI, analytics cards, recent orders table and light/dark mode
 - CSS3
 - JavaScript
 
+# 📂 Project Structure 
+images -> dashboard images
+index.html -> main page
+style.css -> styling file
+index.js -> dashboard logic
+orders.js -> orders data
+
+# 🌐 Live Demo 
+https://rutuja2005byte.github.io/responsive-admin-dashboard/
 
   
